@@ -1,0 +1,5 @@
+es:
+  notice_unable_to_obtain_google_credentials: "No se puede obtener las credenciales de Google."
+  notice_domain_not_allowed: "No se puede acceder usando el dominio %{domain}."
+  notice_access_denied: "Debe permitir que se pueda usar sus credenciales de Google para poder acceder"
+  login_via_google: "Iniciar sesión con Google"
